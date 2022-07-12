@@ -1,6 +1,6 @@
 # Anti-fraud-passport-project
 
-Part 1:Classification
+Part 1: Classification
   a)Faces vs Not faces
   b)Passport(Russian) vs Non Passport
 
